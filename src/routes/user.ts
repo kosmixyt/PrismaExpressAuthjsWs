@@ -59,3 +59,4 @@ router.put('/profile', authenticatedUser, async (req, res) => {
 });
 
 export { router };
+
